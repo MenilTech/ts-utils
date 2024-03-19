@@ -27,14 +27,12 @@
   },
   "homepage": "https://github.com/MenilTech/ts-utils#readme",
   "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
-  },
-  "dependencies": {
-    "@tsconfig/node20": "^20.1.2"
   }
 }
