@@ -21,7 +21,7 @@
     "utils"
   ],
   "author": "Gabriel Vallereau <gabriel.vallereau@menil.tech>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MenilTech/ts-utils/issues"
   },
